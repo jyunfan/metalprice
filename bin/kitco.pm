@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 package kitco;
 
 use strict;
