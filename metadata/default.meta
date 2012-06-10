@@ -1,5 +1,5 @@
 [transforms/LondonFixMetal_extractions]
 export = system
 
-[props/LondonFixMetal/REPORT-LondonFixMetalExtract]
+[props/source::LondonFixMetal/REPORT-LondonFixMetalExtract]
 export = system
